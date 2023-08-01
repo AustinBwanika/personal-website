@@ -1,8 +1,8 @@
 # Ignore all files and directories in the css folder
-css/*
+static/css/*
 
 # Ignore all files and directories in the images folder
-images/*
+static/images/*
 
 # Ignore the favicon.ico file in the root directory
 favicon.ico
